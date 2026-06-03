@@ -69,3 +69,4 @@ git commit -m "Description du changement"
 ## Notes
 
 Ce projet est un site statique. Il ne contient pas encore de backend : le formulaire ne transmet pas réellement les demandes. Pour recevoir les réservations, il faudra connecter le formulaire à un service externe ou à une API.
+
